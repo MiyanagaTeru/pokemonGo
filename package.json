@@ -1,0 +1,19 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiyanagaTeru/pokemonGo.git"
+  },
+  "author": "Teru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiyanagaTeru/pokemonGo/issues"
+  },
+  "homepage": "https://github.com/MiyanagaTeru/pokemonGo#readme"
+}
